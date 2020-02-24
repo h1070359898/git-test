@@ -8,6 +8,7 @@ public class Main {
     }
     static void test(){
         int i = 0;
+        System.out.println("这里是修改了的内容，测试修改并推送");
         System.out.println(i);
     }
 }
